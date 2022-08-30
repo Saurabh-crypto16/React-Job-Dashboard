@@ -1,0 +1,19 @@
+.interview-component {
+  margin: 30px;
+  background-color: lightcyan;
+  border-radius: 10px;
+}
+
+.interview-question {
+  padding: 10px;
+}
+
+.interview-answer {
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.bottom {
+  margin-top: 70px;
+}
